@@ -19,7 +19,13 @@ https://github.com/termux/termux-app/releases/download/v0.118.0/termux-app_v0.11
 
 ### Udacity
 
-https://www.udacity.com/courses/all?field=school-of-programming&field=school-of-data-science&level=beginner&price=Free&sort=highest%20rated
+Basic Web Page - https://www.udacity.com/course/intro-to-html-and-css--ud001
+
+Basic Javascript for website - https://www.udacity.com/course/intro-to-javascript--ud803
+
+Basic terminal (optional but important) - https://www.udacity.com/course/shell-workshop--ud206
+
+All Free cources for begineers - https://www.udacity.com/courses/all?field=school-of-programming&field=school-of-data-science&level=beginner&price=Free&sort=highest%20rated
 
 ### Egghead.io
 
@@ -27,10 +33,16 @@ https://egghead.io/q?access_state=free
 
 ### CodeAcademy
 
-https://join.codecademy.com/learn/introduction-to-javascript/
-https://www.codecademy.com/learn/learn-css
-https://join.codecademy.com/learn/learn-html/
+Basic Javascript for website  - https://join.codecademy.com/learn/introduction-to-javascript/
+
+Basic HTML - https://join.codecademy.com/learn/learn-html/
+
+Basic CSS - https://www.codecademy.com/learn/learn-css
 
 ### Freecodecamp
 
 https://www.freecodecamp.org/
+
+### Basic Web Development by Microsoft
+
+https://learn.microsoft.com/en-us/users/jenlooper-2911/collections/jg2gax8pzd6o81
