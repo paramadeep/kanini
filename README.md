@@ -15,7 +15,9 @@ https://github.com/termux/termux-app/releases/download/v0.118.0/termux-app_v0.11
 https://github.com/termux/termux-app/releases/download/v0.118.0/termux-app_v0.118.0+github-debug_armeabi-v7a.apk
 
 
-## Good Free Courses 
+# Good Free Courses 
+
+## Web Development
 
 ### Udacity
 
@@ -46,3 +48,11 @@ https://www.freecodecamp.org/
 ### Basic Web Development by Microsoft
 
 https://learn.microsoft.com/en-us/users/jenlooper-2911/collections/jg2gax8pzd6o81
+
+## Testing
+
+## Coursera
+
+https://in.coursera.org/learn/introduction-software-testing
+
+https://in.coursera.org/specializations/software-testing-automation
